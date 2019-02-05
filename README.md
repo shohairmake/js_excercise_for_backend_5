@@ -5,7 +5,7 @@
 
 ### 完成形
 
-![完成形](./images/assignment.png)
+![完成形](./images/assignment.gif)
 
 ## 課題
 
